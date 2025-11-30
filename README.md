@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1123" height="632" alt="Group 16" src="https://github.com/user-attachments/assets/06a29efe-e916-485e-9a70-2d53e2ef3f06"/>
+  <img width="auto" height="auto" alt="Group 16" src="https://github.com/user-attachments/assets/06a29efe-e916-485e-9a70-2d53e2ef3f06"/>
   <h1>Bem vindo(a) ao site da nossa empresa, a <a href="https://nexore.me/">Nexore</a></h1>
   <h2>
     Somos uma startup de desenvolvimento voltada para sistemas, especializados nas linguagens: 
